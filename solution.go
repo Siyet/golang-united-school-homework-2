@@ -12,7 +12,7 @@ import "math"
 
 type intCustomType int
 
-var (
+const (
 	SidesTriangle intCustomType = 3
 	SidesSquare   intCustomType = 4
 	SidesCircle   intCustomType = 0
